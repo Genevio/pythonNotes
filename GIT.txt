@@ -1,0 +1,85 @@
+GIT:
+
+Req Analy-plan-system Design -Implementation- Testing - Deploying - Maintaining
+
+Dev -code - store - GitHub
+
+version Control System:
+1: Centr.. vcs
+2.Dis vcs - Git
+
+server ->ssh ->Gitbash
+
+
+#mkdir Day1
+#cd Day1
+#vi test (add some lines)
+#git add test
+#git commit -m "First commit"
+#git log
+
+test - one line - staging - local repo
+test - second - staging -
+
+
+git config --global user.name "im an Gen"
+git config --global user.email "@gmail.com"
+
+ dd989a7eecee02784345f39b677d813f00735745
+
+
+
+--------------------------------------------
+#Install GitBash
+#create a folder(mkdir DAY1)
+#cd DAY1/ (to change dir)
+#cd ..
+#ls (to list the files)(
+#ls -a ( to see hidden files)
+#ls -lrt(To see file with permissions)
+
+#git init(will initialize as a hidden folder)
+#DAY1 - vi test(create a file)
+#git status -s
+
+#git add test
+#git status -s
+
+#git commit -m "msg"
+git config --global user.name "im an Gen"
+git config --global user.email "@gmail.com"
+
+#git log
+
+gonna add another line in test
+
+#vi test
+#add one more line ->git add ->git commit -m "secomnd"
+
+
+---pushing to sever---
+#github acc
+#create a pub repo
+
+#git push
+#git remote add SBI <url>
+#git remote
+#git push SBI master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
