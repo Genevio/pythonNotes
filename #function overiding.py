@@ -22,9 +22,9 @@ class Trainee(Employee):
     def updatedhrs(self):
         super().workinghrs()
 
-employee = Employee()
+"""employee = Employee()
 employee.workinghrs()
-employee.printhrs()
+employee.printhrs()"""
 
 trainee = Trainee()
 trainee.workinghrs()
